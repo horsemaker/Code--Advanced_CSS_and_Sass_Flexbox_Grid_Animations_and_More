@@ -70,3 +70,78 @@ The easiest way to transorm anything with the `transform, top and left` properti
 ## Building a Complex Animated Button - Part 2
 
 ---
+## How CSS Works : A Look Behind The Scenes
+
+### Three Pillars of Writing Good HTML and CSS
+
+- Responsive design
+
+  - Fluid layouts
+  - Media queries
+  - Responsive images
+  - Correct units
+  - Desktop-first vs mobile-first
+
+- Maintainable and scalable code
+
+  - Clean
+  - Easy-to-understand
+  - Growth
+  - Reusable
+  - How to organize files
+  - How to name classes
+  - How to structure HTML
+
+- Web performance
+  - Less HTTP requests
+  - Less code
+  - Compress code
+  - Use a CSS preprocessor
+  - Less images
+  - Compress images
+
+---
+
+## How CSS Works Behind The Scenes: An Overview
+
+### What happens to CSS when we load up a webpage?
+
+![css-behind the  scenes](images-README\css-behind-the-scenes.png)
+
+### Things to note:
+
+Visual Formatting Model
+
+---
+
+## How CSS is Parsed. Part 1: The Cascade and Specificity
+
+![css-terminology](images-README\css-terminology.png)
+![css-cascade](images-README\css-cascade-1.png)
+![css-cascade](images-README\css-cascade-2.png)
+![css-cascade](images-README\css-cascade-3.png)
+![css-cascade-takeaway](images-README\css-cascade-takeaway.png)
+
+Author declaration: CSS by the coder or developer
+
+User declaration: CSS by the user. Example, when user changes default browser font-size.
+
+Browser (user agent) declaration: CSS by the browser. Example, anchor tag in HTML has deafult color purple and an underline.
+
+---
+## Specificity in practice
+
+
+---
+
+## How CSS is Parsed. Part 2: Value Processing
+
+---
+
+## How CSS is Parsed. Part 3: Inheritance
+
+---
+
+# resources
+
+http://codingheroes.io/resources/
